@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+config-siliconflow.json
+*.log
+.DS_Store
+
+# Pilot handoff notes are not needed in the public portfolio.
+CUSTOMER_INPUT_NEXT.txt
+REAL_DATA_NEEDED.txt
+README_FIRST.txt

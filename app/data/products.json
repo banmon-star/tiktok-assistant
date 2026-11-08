@@ -1,0 +1,38 @@
+[
+  {
+    "id":"br-multi-01","market":"brazil","name":"Daily Multivitamin Capsules","name_local":"Multivitamínico Diário","sku":"BR-MULTI-01","category":"supplement","form":"capsules","flavor":"","price":"R$ --","inventory":36,"shelf_location":"BR-A-01","image":"/static/assets/br_multi.svg",
+    "verified_facts":["Demo product only — replace with the customer's real label before a live test","Form: capsules","Market profile: Brazil / pt-BR"],
+    "keywords":["multivitamin","vitamin","vitamins","capsules","multivitamínico","vitamina","cápsulas"],
+    "aliases":["daily vitamins","vitamin capsules","multivitamínico diário"],
+    "allowed_talking_points":["Show the package and read only confirmed label information","Explain format, count and flavor only after they are verified"],
+    "blocked_claim_examples":["treats disease","prevents disease","guaranteed results","weight-loss guarantee"],
+    "demo_only":true
+  },
+  {
+    "id":"br-electro-01","market":"brazil","name":"Electrolyte Drink Mix","name_local":"Mistura de Eletrólitos","sku":"BR-ELEC-01","category":"supplement","form":"powder","flavor":"lemon demo","price":"R$ --","inventory":24,"shelf_location":"BR-B-02","image":"/static/assets/br_electro.svg",
+    "verified_facts":["Demo product only — replace with the customer's real label before a live test","Form: powder","Demo flavor tag: lemon"],
+    "keywords":["electrolyte","electrolytes","powder","drink mix","eletrólito","eletrólitos","pó","limão"],
+    "aliases":["hydration powder","electrolyte powder","mistura de eletrólitos"],
+    "allowed_talking_points":["Show preparation method only if confirmed on the real label","Do not improvise medical or performance outcomes"],
+    "blocked_claim_examples":["cures dehydration","guaranteed performance","medical treatment"],
+    "demo_only":true
+  },
+  {
+    "id":"me-collagen-01","market":"middle_east","name":"Collagen Peptides Powder","name_local":"مسحوق ببتيدات الكولاجين","sku":"ME-COLL-01","category":"supplement","form":"powder","flavor":"unflavored demo","price":"--","inventory":31,"shelf_location":"ME-A-03","image":"/static/assets/me_collagen.svg",
+    "verified_facts":["Demo product only — replace with the customer's real label before a live test","Form: powder","Market profile: Middle East pilot / Arabic + English"],
+    "keywords":["collagen","peptides","powder","كولاجين","ببتيدات","مسحوق"],
+    "aliases":["collagen powder","مسحوق الكولاجين"],
+    "allowed_talking_points":["Read only verified packaging facts","Show product format and packaging on camera"],
+    "blocked_claim_examples":["reverses aging","guaranteed skin result","treats joints"],
+    "demo_only":true
+  },
+  {
+    "id":"me-probiotic-01","market":"middle_east","name":"Probiotic Capsules","name_local":"كبسولات بروبيوتيك","sku":"ME-PROB-01","category":"supplement","form":"capsules","flavor":"","price":"--","inventory":18,"shelf_location":"ME-B-01","image":"/static/assets/me_probiotic.svg",
+    "verified_facts":["Demo product only — replace with the customer's real label before a live test","Form: capsules","Market profile: Middle East pilot / Arabic + English"],
+    "keywords":["probiotic","capsules","بروبيوتيك","كبسولات"],
+    "aliases":["probiotic capsule","كبسولات البروبيوتيك"],
+    "allowed_talking_points":["Use only confirmed label facts","Refer medical or medication-interaction questions to a qualified professional"],
+    "blocked_claim_examples":["cures digestive disease","guaranteed gut health","medical treatment"],
+    "demo_only":true
+  }
+]

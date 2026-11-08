@@ -1,0 +1,3 @@
+market,sku,name,name_local,category,form,flavor,price,inventory,shelf_location,image,keywords,aliases,verified_facts,allowed_talking_points
+brazil,BR-001,Product name,Nome do produto,supplement,capsules,,R$ --,20,BR-A-01,,keyword1|keyword2,alias1|alias2,Verified fact 1|Verified fact 2,Talking point 1|Talking point 2
+middle_east,ME-001,Product name,اسم المنتج,supplement,powder,,--,20,ME-A-01,,keyword1|keyword2,alias1|alias2,Verified fact 1|Verified fact 2,Talking point 1|Talking point 2

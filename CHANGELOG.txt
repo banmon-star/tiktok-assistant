@@ -1,0 +1,9 @@
+Pilot 0.1
+- Rebuilt from the earlier generic demo into a small Brazil + Middle East supplement pilot.
+- Added market isolation and market-specific sample comments.
+- Added pt-BR and Arabic/English local fallback scripts.
+- Added supplement-specific risk scanner for medical/guaranteed/weight-body claims.
+- Added product finder for local catalog with image/SKU/shelf location.
+- Added host manual control of comments.
+- Added CSV import template.
+- Reuses SiliconFlow local configuration when configured on the customer machine.
